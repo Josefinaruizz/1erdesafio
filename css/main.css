@@ -364,3 +364,11 @@
     display:block;
    margin:auto;
    }
+ .texto-e-imagen :hover { -webkit-transform:scale(0.98) ;transform:scale(0.98);
+
+ }
+ .texto-e-imagen :hover {overflow:hidden;}
+ .video-y-texto :hover { -webkit-transform:scale(0.98) ;transform:scale(0.98);
+
+ }
+ .video-y-texto :hover {overflow:hidden;}
